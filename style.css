@@ -280,7 +280,7 @@ h3 {
 #facilities {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.13), rgba(4, 9, 30, 0.164)), url(Images/Facilities.jpeg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.13), rgba(4, 9, 30, 0.164)), url(./Images/Facilities.jpeg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -371,7 +371,7 @@ h3 {
 #contact {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.13), rgba(4, 9, 30, 0.164)), url(Images/contact_page.jpg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.13), rgba(4, 9, 30, 0.164)), url(./Images/contact_page.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
